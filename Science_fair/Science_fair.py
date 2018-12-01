@@ -9,7 +9,7 @@ if __name__ == '__main__' :
     # Instead of MIL, you can also use
  
     tracker_types = ['BOOSTING', 'MIL','KCF', 'TLD', 'MEDIANFLOW', 'GOTURN', 'MOSSE', 'CSRT']
-    tracker_type = tracker_types[2]
+    tracker_type = tracker_types[0]
  
     if int(minor_ver) < 3:
         tracker = cv2.Tracker_create(tracker_type)
@@ -30,34 +30,32 @@ if __name__ == '__main__' :
             tracker = cv2.TrackerMOSSE_create()
         if tracker_type == "CSRT":
             tracker = cv2.TrackerCSRT_create()
+
+    folder = "c:/data/SF/vot2016/ball1/"
+    filename = folder + "00000001.jpg"
+
+    frame = cv2.imread(filename)
  
-    # Read video
-    video = cv2.VideoCapture("videos/chaplin.mp4")
- 
-    # Exit if video not opened.
-    if not video.isOpened():
-        print ("Could not open video")
-        sys.exit()
- 
-    # Read first frame.
-    ok, frame = video.read()
-    if not ok:
-        print ('Cannot read video file')
-        sys.exit()
-     
     # Define an initial bounding box
-    bbox = (287, 23, 86, 320)
+    #bbox = (287, 23, 86, 320)
+    bbox = (483,411,65,50)
  
     # Uncomment the line below to select a different bounding box
-    bbox = cv2.selectROI(frame, False)
+    #bbox = cv2.selectROI(frame, False)
+
  
     # Initialize tracker with first frame and bounding box
     ok = tracker.init(frame, bbox)
+
+    fileindex = 2
  
     while True:
+        filename = folder + "%08d.jpg" % fileindex
+        fileindex = fileindex + 1
+
         # Read a new frame
-        ok, frame = video.read()
-        if not ok:
+        frame = cv2.imread(filename)
+        if frame is None:
             break
          
         # Start timer
