@@ -1,0 +1,290 @@
+bag KCF fps:66.557002 pos:19.261585
+bag TLD fps:23.071085 pos:12.786607
+bag MEDIANFLOW fps:539.512165 pos:26.743785
+bag MOSSE fps:0.000000 pos:0.000000
+
+ball1 KCF fps:165.844789 pos:6.271266
+ball1 TLD fps:5.628657 pos:14.106090
+ball1 MEDIANFLOW fps:84.358989 pos:7.909518
+ball1 MOSSE fps:0.000000 pos:0.000000
+
+ball2 KCF fps:291.767421 pos:32.156592
+ball2 TLD fps:6.409986 pos:24.171825
+ball2 MEDIANFLOW fps:80.820987 pos:22.142940
+ball2 MOSSE fps:0.000000 pos:0.000000
+
+basketball KCF fps:78.097824 pos:4.309443
+basketball TLD fps:18.429718 pos:24.401210
+basketball MEDIANFLOW fps:412.144138 pos:39.397068
+basketball MOSSE fps:1717.912057 pos:4.644779
+
+birds1 KCF fps:112.170735 pos:18.173607
+birds1 TLD fps:8.191607 pos:37.051697
+birds1 MEDIANFLOW fps:85.808362 pos:11.901561
+birds1 MOSSE fps:0.000000 pos:0.000000
+
+birds2 KCF fps:150.440944 pos:14.128601
+birds2 TLD fps:12.234367 pos:27.234906
+birds2 MEDIANFLOW fps:143.079666 pos:11.578958
+birds2 MOSSE fps:1240.878488 pos:11.659688
+
+blanket KCF fps:231.130907 pos:35.550130
+blanket TLD fps:41.045526 pos:21.334456
+blanket MEDIANFLOW fps:812.497798 pos:35.178064
+blanket MOSSE fps:4491.837418 pos:37.570660
+
+
+bmx KCF fps:50.135758 pos:40.329641
+bmx TLD fps:7.159806 pos:35.179987
+bmx MEDIANFLOW fps:86.756416 pos:39.073647
+bmx MOSSE fps:411.362728 pos:26.912495
+
+bolt1 KCF fps:183.510677 pos:22.332282
+bolt1 TLD fps:19.464411 pos:37.927075
+bolt1 MEDIANFLOW fps:449.125020 pos:55.445097
+bolt1 MOSSE fps:3255.462345 pos:22.199442
+
+bolt2 KCF fps:203.571062 pos:33.776651
+bolt2 TLD fps:38.043851 pos:41.127107
+bolt2 MEDIANFLOW fps:628.522931 pos:34.513175
+bolt2 MOSSE fps:0.000000 pos:0.000000
+
+book KCF fps:84.048151 pos:17.096482
+book TLD fps:10.926459 pos:20.145132
+book MEDIANFLOW fps:190.462025 pos:18.395793
+book MOSSE fps:0.000000 pos:0.000000
+
+butterfly KCF fps:106.122827 pos:28.716572
+butterfly TLD fps:13.130438 pos:21.929709
+butterfly MEDIANFLOW fps:229.745185 pos:19.833001
+butterfly MOSSE fps:0.000000 pos:0.000000
+
+car1 KCF fps:74.433954 pos:14.358721
+car1 TLD fps:16.460321 pos:12.537582
+car1 MEDIANFLOW fps:235.813900 pos:22.818862
+car1 MOSSE fps:692.417232 pos:13.289927
+
+car2 KCF fps:500.313257 pos:5.917259
+car2 TLD fps:28.559656 pos:9.938718
+car2 MEDIANFLOW fps:762.295244 pos:14.136319
+car2 MOSSE fps:6330.529171 pos:6.066381
+
+crossing KCF fps:74.524711 pos:1.024690
+crossing TLD fps:10.191791 pos:15.044263
+crossing MEDIANFLOW fps:93.022336 pos:18.011366
+crossing MOSSE fps:0.000000 pos:0.000000
+
+dinosaur KCF fps:160.514153 pos:30.113451
+dinosaur TLD fps:32.872587 pos:24.002109
+dinosaur MEDIANFLOW fps:750.513869 pos:32.037480
+dinosaur MOSSE fps:1288.553772 pos:25.781881
+
+fernando KCF fps:71.691320 pos:2.841022
+fernando TLD fps:20.823959 pos:13.404356
+fernando MEDIANFLOW fps:229.015739 pos:5.551171
+fernando MOSSE fps:624.885932 pos:11.817697
+
+fish1 KCF fps:153.060245 pos:28.081503
+fish1 TLD fps:15.378882 pos:23.619857
+fish1 MEDIANFLOW fps:515.088700 pos:40.022355
+fish1 MOSSE fps:2883.006642 pos:28.568140
+
+fish2 KCF fps:123.783436 pos:32.610551
+fish2 TLD fps:17.392743 pos:35.030877
+fish2 MEDIANFLOW fps:435.058662 pos:45.431443
+fish2 MOSSE fps:864.301789 pos:45.566090
+
+fish3 KCF fps:76.105861 pos:4.373625
+fish3 TLD fps:16.313729 pos:28.955321
+fish3 MEDIANFLOW fps:417.142333 pos:39.992222
+fish3 MOSSE fps:0.000000 pos:0.000000
+
+girl KCF fps:162.948766 pos:29.086625
+girl TLD fps:20.261552 pos:34.757209
+girl MEDIANFLOW fps:231.438245 pos:53.354170
+girl MOSSE fps:1204.507890 pos:35.070777
+
+glove KCF fps:136.771891 pos:6.152428
+glove TLD fps:19.289686 pos:18.130385
+glove MEDIANFLOW fps:221.610494 pos:7.200403
+glove MOSSE fps:0.000000 pos:0.000000
+
+godfather KCF fps:213.856014 pos:12.490787
+godfather TLD fps:36.585974 pos:20.629367
+godfather MEDIANFLOW fps:664.041740 pos:9.800700
+godfather MOSSE fps:4531.872390 pos:12.794503
+
+graduate KCF fps:235.079702 pos:34.600185
+graduate TLD fps:33.655769 pos:53.140051
+graduate MEDIANFLOW fps:615.173917 pos:52.417117
+graduate MOSSE fps:0.000000 pos:0.000000
+
+gymnastics1 KCF fps:94.212195 pos:27.596080
+gymnastics1 TLD fps:48.973141 pos:29.571653
+gymnastics1 MEDIANFLOW fps:947.543363 pos:39.116831
+gymnastics1 MOSSE fps:2322.169900 pos:23.897467
+
+gymnastics2 KCF fps:87.482389 pos:23.809495
+gymnastics2 TLD fps:9.876444 pos:42.601141
+gymnastics2 MEDIANFLOW fps:87.355657 pos:45.339670
+gymnastics2 MOSSE fps:2297.248567 pos:30.123270
+
+gymnastics3 KCF fps:122.832651 pos:6.312306
+gymnastics3 TLD fps:5.522058 pos:27.881733
+gymnastics3 MEDIANFLOW fps:86.734518 pos:36.671466
+gymnastics3 MOSSE fps:0.000000 pos:0.000000
+
+gymnastics4 KCF fps:117.314321 pos:22.411663
+gymnastics4 TLD fps:9.820355 pos:44.199494
+gymnastics4 MEDIANFLOW fps:144.481293 pos:21.605616
+gymnastics4 MOSSE fps:1180.269221 pos:14.415182
+
+hand KCF fps:163.100059 pos:21.196190
+hand TLD fps:36.339365 pos:33.136395
+hand MEDIANFLOW fps:772.450808 pos:36.343007
+hand MOSSE fps:2931.789386 pos:21.221720
+
+handball1 KCF fps:750.063477 pos:46.007073
+handball1 TLD fps:22.954507 pos:35.103154
+handball1 MEDIANFLOW fps:651.527076 pos:22.479721
+handball1 MOSSE fps:0.000000 pos:0.000000
+
+handball2 KCF fps:136.527678 pos:47.397540
+handball2 TLD fps:12.127705 pos:31.179306
+handball2 MEDIANFLOW fps:161.304058 pos:20.724979
+handball2 MOSSE fps:0.000000 pos:0.000000
+
+helicopter KCF fps:30.990844 pos:10.699987
+helicopter TLD fps:16.551255 pos:16.311575
+helicopter MEDIANFLOW fps:180.471705 pos:12.092890
+helicopter MOSSE fps:315.576751 pos:10.957480
+
+iceskater1 KCF fps:190.798990 pos:28.350707
+iceskater1 TLD fps:36.378003 pos:30.815215
+iceskater1 MEDIANFLOW fps:706.921854 pos:52.948588
+iceskater1 MOSSE fps:1234.744536 pos:26.115961
+
+iceskater2 KCF fps:81.940466 pos:31.261453
+iceskater2 TLD fps:25.935155 pos:34.936561
+iceskater2 MEDIANFLOW fps:441.870578 pos:44.653456
+iceskater2 MOSSE fps:762.621527 pos:57.155508
+
+leaves KCF fps:112.588235 pos:33.761222
+leaves TLD fps:4.885879 pos:24.913526
+leaves MEDIANFLOW fps:79.590336 pos:25.407755
+leaves MOSSE fps:0.000000 pos:0.000000
+
+marching KCF fps:79.561007 pos:35.133141
+marching TLD fps:7.599347 pos:27.102201
+marching MEDIANFLOW fps:84.986603 pos:29.232836
+marching MOSSE fps:670.785898 pos:27.515009
+
+matrix KCF fps:254.642722 pos:34.591201
+matrix TLD fps:11.245398 pos:40.317363
+matrix MEDIANFLOW fps:271.521182 pos:44.436216
+matrix MOSSE fps:0.000000 pos:0.000000
+
+motocross1 KCF fps:71.367257 pos:11.921133
+motocross1 TLD fps:25.942575 pos:27.595123
+motocross1 MEDIANFLOW fps:447.054942 pos:16.533450
+motocross1 MOSSE fps:627.529746 pos:27.860186
+
+motocross2 KCF fps:14.848742 pos:20.593236
+motocross2 TLD fps:6.476769 pos:26.015817
+motocross2 MEDIANFLOW fps:82.262235 pos:26.433451
+motocross2 MOSSE fps:0.000000 pos:0.000000
+
+nature KCF fps:50.467055 pos:55.658830
+nature TLD fps:9.467729 pos:41.040341
+nature MEDIANFLOW fps:140.656995 pos:64.264255
+nature MOSSE fps:485.196139 pos:63.800240
+
+octopus KCF fps:57.850954 pos:21.819504
+octopus TLD fps:7.188986 pos:31.395125
+octopus MEDIANFLOW fps:85.757974 pos:19.885873
+octopus MOSSE fps:608.026179 pos:21.716080
+
+pedestrian1 KCF fps:352.809293 pos:2.789152
+pedestrian1 TLD fps:33.549390 pos:32.034528
+pedestrian1 MEDIANFLOW fps:822.913976 pos:29.001588
+pedestrian1 MOSSE fps:0.000000 pos:0.000000
+
+pedestrian2 KCF fps:995.330177 pos:13.968205
+pedestrian2 TLD fps:6.068413 pos:39.166644
+pedestrian2 MEDIANFLOW fps:219.385501 pos:21.294626
+pedestrian2 MOSSE fps:0.000000 pos:0.000000
+
+rabbit KCF fps:235.614106 pos:40.329035
+rabbit TLD fps:20.096716 pos:27.349890
+rabbit MEDIANFLOW fps:235.048998 pos:45.402801
+rabbit MOSSE fps:0.000000 pos:0.000000
+
+racing KCF fps:177.460602 pos:53.518727
+racing TLD fps:13.619561 pos:32.826988
+racing MEDIANFLOW fps:220.784559 pos:47.812897
+racing MOSSE fps:3364.811763 pos:22.307893
+
+road KCF fps:122.345768 pos:7.510958
+road TLD fps:8.690948 pos:11.636050
+road MEDIANFLOW fps:96.632479 pos:39.543138
+road MOSSE fps:2740.578373 pos:12.008440
+
+shaking KCF fps:122.344193 pos:13.112534
+shaking TLD fps:23.731074 pos:41.119211
+shaking MEDIANFLOW fps:436.110773 pos:20.891630
+shaking MOSSE fps:0.000000 pos:0.000000
+
+sheep KCF fps:165.279296 pos:35.676575
+sheep TLD fps:26.369586 pos:24.654635
+sheep MEDIANFLOW fps:499.225985 pos:34.918342
+sheep MOSSE fps:3454.552497 pos:25.931153
+
+singer1 KCF fps:70.568441 pos:32.007256
+singer1 TLD fps:26.993578 pos:30.416344
+singer1 MEDIANFLOW fps:427.553859 pos:27.004142
+singer1 MOSSE fps:511.877772 pos:34.459714
+
+singer3 KCF fps:129.086740 pos:26.760280
+singer3 TLD fps:11.206825 pos:27.929243
+singer3 MEDIANFLOW fps:173.493798 pos:19.984109
+singer3 MOSSE fps:2949.558913 pos:26.053002
+
+soccer1 KCF fps:64.740824 pos:21.351515
+soccer1 TLD fps:21.496694 pos:32.199661
+soccer1 MEDIANFLOW fps:425.716061 pos:21.970230
+soccer1 MOSSE fps:1575.940212 pos:36.604059
+
+soccer2 KCF fps:306.270012 pos:14.937371
+soccer2 TLD fps:4.891936 pos:33.806727
+soccer2 MEDIANFLOW fps:96.513874 pos:42.253256
+soccer2 MOSSE fps:0.000000 pos:0.000000
+
+soldier KCF fps:101.613559 pos:5.146325
+soldier TLD fps:2.649803 pos:8.897426
+soldier MEDIANFLOW fps:78.539590 pos:8.444676
+soldier MOSSE fps:869.341878 pos:9.474597
+
+sphere KCF fps:74.198759 pos:12.199286
+sphere TLD fps:22.446748 pos:20.725995
+sphere MEDIANFLOW fps:515.508474 pos:13.707341
+sphere MOSSE fps:531.565300 pos:13.156333
+
+tiger KCF fps:66.382079 pos:3.830930
+tiger TLD fps:15.099935 pos:38.250901
+tiger MEDIANFLOW fps:222.027409 pos:13.927630
+tiger MOSSE fps:1658.180353 pos:32.506499
+
+traffic KCF fps:125.234221 pos:36.497408
+traffic TLD fps:8.056507 pos:35.398173
+traffic MEDIANFLOW fps:95.127253 pos:40.384805
+traffic MOSSE fps:2887.297799 pos:36.712981
+
+tunnel KCF fps:479.465644 pos:2.343443
+tunnel TLD fps:16.523579 pos:2.051354
+tunnel MEDIANFLOW fps:479.063227 pos:18.418820
+tunnel MOSSE fps:6838.259766 pos:2.738708
+
+wiper KCF fps:153.523177 pos:1.945808
+wiper TLD fps:18.454552 pos:14.869955
+wiper MEDIANFLOW fps:233.135663 pos:24.149001
+wiper MOSSE fps:2782.639216 pos:1.968341

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8cfc435d-a35f-47ef-aaeb-5cfc1028becb</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Science_fair.py</StartupFile>
+    <StartupFile>data.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="data.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Science_fair.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
