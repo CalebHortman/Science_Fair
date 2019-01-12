@@ -5,7 +5,24 @@ import os
 import cv2
 
 
+
+
+#change the path to where you would like the data to output to
+
+summary = open("D:/Programing_project/Science_fair/results.txt","w+")
+
+
+#change this to the path of your dataset
+topfolder = "D:/Programing_project/vot2016/"
+
+
+#make sure this is the same as before, in the same order
 tracker_types = ['KCF','TLD', 'MEDIANFLOW', 'MOSSE']
+
+
+
+
+
 
 
 def compare (data,truth,folder):
@@ -96,9 +113,7 @@ def producebox(corners):
 
 
 
-summary = open("D:/Programing_project/Science_fair/results.txt","w+")
 
-topfolder = "D:/Programing_project/vot2016/"
 subdir = os.listdir(topfolder)
 
 

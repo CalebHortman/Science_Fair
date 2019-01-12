@@ -4,6 +4,12 @@ import os
 import csv
 
 
+
+
+#Change this to the path to your dataset
+topfolder = "D:/Programing_project/vot2016/"
+
+# you can change this if you want to test different algoritims. 
 tracker_types = ['KCF','TLD', 'MEDIANFLOW', 'MOSSE']
 
 
@@ -178,7 +184,6 @@ def runalgorithm(folder,bbox,trackertype):
 
 
 
-topfolder = "D:/Programing_project/vot2016/"
 subdir = os.listdir(topfolder)
 
 
@@ -191,13 +196,10 @@ for y in subdir:
 
 	if y == "singer2": continue
 	
-	#folder = topfolder + "singer2/" 
 	folder = topfolder + y + "/" 
 	ground_file = folder + "groundtruth.txt"
 
-	#folder = topfolder + "ball1/"
 
-	#corners = (496,419,536,419,536,461,496,461)
 	corners = get_info(ground_file)
 
 
@@ -207,7 +209,6 @@ for y in subdir:
 		bbox = producebox(corners)
 
 		runalgorithm(folder,bbox,x)
-	#break
 
 	
 
